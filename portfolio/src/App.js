@@ -1,5 +1,7 @@
 import './App.css';
 import Header from './components/Header'
+import Profile from './components/Profile'
+import Projects from './components/Projects'
 
 function App() {
   // state - which page we are on!
@@ -7,7 +9,7 @@ function App() {
     <div className="App">
       <Header />
       <h1>Blank canvas</h1> 
-      {/* if else stuff to show different files depening pn wat page the state is */}
+      {/* if else stuff to show different files depening on what page the state is */}
     </div>
   );
 }
