@@ -5,7 +5,7 @@ function Projects() {
         <div class="col s6">
             <div class="card">
                 <div class="card-image waves-effect waves-block waves-light">
-                    <img class="activator" src="./assets/dashboard-grab.png">
+                    <img class="activator" src="./assets/dashboard-grab.png"></img>
                 </div>
                 <div class="card-content">
                     <span class="card-title activator grey-text text-darken-4">Weather Dashboard<i
@@ -17,8 +17,8 @@ function Projects() {
                 <div class="card-reveal">
                     <span class="card-title grey-text text-darken-4">Weather Dashboard<i
                             class="material-icons right">close</i></span>
-                    <p>This weather dashboard was created using HTML, CSS, Bootstrap, JavaScript, & JQuery. <br>
-                        I created a 5 day forecast using an API key from openweathermap.org.<br>
+                    <p>This weather dashboard was created using HTML, CSS, Bootstrap, JavaScript, & JQuery. 
+                        I created a 5 day forecast using an API key from openweathermap.org.
                         The weather forecast uses logic to include the weather patterns for the present and for the next 5 days.
                         The text area input saves to local storage. </p>
                 </div>
@@ -28,7 +28,7 @@ function Projects() {
         <div class="col s6">
             <div class="card">
                 <div class="card-image waves-effect waves-block waves-light">
-                    <img class="activator" src="./assets/daily-planner-grab.png">
+                    <img class="activator" src="./assets/daily-planner-grab.png"></img>
                 </div>
                 <div class="card-content">
                     <span class="card-title activator grey-text text-darken-4">Daily Planner<i
@@ -53,16 +53,16 @@ function Projects() {
                 <div class="card">
                     <div class="card-image">
                         <img
-                            src="https://user-images.githubusercontent.com/89271807/139503807-58fab0d3-4d74-4965-9b46-890ed0e9d4bc.png">
+                            src="https://user-images.githubusercontent.com/89271807/139503807-58fab0d3-4d74-4965-9b46-890ed0e9d4bc.png"></img>
                         <span class="card-title green-text text-lighten-3">Giphy Meets Movies</span>
                     </div>
                     <div class="card-content">
                         <p class="flow-text text-align center">This is the first team project that I got to work on. This is a webpage that my team and I
-                            created for movie lovers. <br>
+                            created for movie lovers. 
                             We call the site Giphy meets Movies. a user types in a movie of their choosing and is given
-                            relevant information about <br>
+                            relevant information about 
                             the movie they entered. Then they are shown Gif's that accompany their chosen movie
-                            selection. <br>
+                            selection. 
                             Click on the link below and enjoy!</p>
                     </div>
                     <div class="card-action">
@@ -79,18 +79,18 @@ function Projects() {
                 <div class="card">
                     <div class="card-image">
                         <img
-                            src="./assets/project2Image.png">
+                            src="./assets/project2Image.png"></img>
                         <span class="card-title green-text text-lighten-3">Joint Effort</span>
                     </div>
                     <div class="card-content">
                         <p class="flow-text text-align center">This is the second team project that I got to work on. This is a webpage that my team and I
-                            created for lovers of food truck cuisine and cannabis. <br>
-                            We call the site Joint Effort. <br> 
-                            A user chooses their cannabis preference<br>
+                            created for lovers of food truck cuisine and cannabis. 
+                            We call the site Joint Effort.  
+                            A user chooses their cannabis preference
                             and then selects a genre of food truck
-                            and are given the locations<br>
-                            of the closest ones in thier area. There is also functionallity built into  <br>
-                            the page to allow saving of their previous selections if they are logged in. <br>
+                            and are given the locations
+                            of the closest ones in thier area. There is also functionallity built into 
+                            the page to allow saving of their previous selections if they are logged in. 
                             Click on the link below to get started.</p>
                     </div>
                     <div class="card-action">
