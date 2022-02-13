@@ -1,0 +1,28 @@
+body, html {
+    height: auto;
+}
+
+.bg {
+    background-image: url(./background5.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+h4 {
+    font-family: Garamond, serif;
+    font-weight: 600;
+    font-size: 75px;
+    
+}
+
+h6 {
+    font-size: 25px;
+}
+
+
+#profile_image {
+    max-width: 100%;
+    max-height: auto;
+    
+    
+}
