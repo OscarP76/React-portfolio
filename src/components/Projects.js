@@ -1,4 +1,4 @@
-function Projects() {
+function Projects({}) {
 
     return (
         <div class="row" id="Projects">
@@ -25,8 +25,6 @@ function Projects() {
                     </div>
                 </div>
             </div>
-
-
             <div class="col s6">
                 <div class="card">
                     <div class="card-image waves-effect waves-block waves-light">

@@ -1,4 +1,4 @@
-function Contacts({setPageState}) {
+function Contacts({}) {
     return(
         <footer class="page-footer blue-grey lighten-1">
             <div class="container">
