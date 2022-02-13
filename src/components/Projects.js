@@ -5,7 +5,7 @@ function Projects() {
             <div class="col s6">
                 <div class="card">
                     <div class="card-image waves-effect waves-block waves-light">
-                        <img class="activator" src="/assets/dashboard-grab.png" />
+                        <img class="activator" src="./assets/dashboard-grab.png" />
                     </div>
 
                     <div class="card-content">
