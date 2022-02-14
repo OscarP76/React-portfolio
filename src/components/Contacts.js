@@ -1,34 +1,67 @@
+import Box from '@mui/material/Box';
+import TextField from '@mui/material/TextField';
+import Button from '@mui/material/Button'
 function Contacts({}) {
     return(
-        <footer class="page-footer blue-grey lighten-1">
-            <div class="container">
-                <div class="row">
-                    <div class="col l6 s12">
-                        <i class="medium material-icons">description</i>
-                        <h5 class="green-text text-darken-4">Contact Info</h5>
-                        <p class="green-text text-lighten-4" id="contact_me">Contact Me:</p>
-                        <ul>
-                            <li>webdevop76@gmail.com</li>
-                        </ul>
-                    </div>
-                    <div class="col l4 offset-l2 s12">
-                        <i class="medium material-icons">link</i>
-                        <h5 class="green-text text-darken-4">Links</h5>
-                        <ul>
-                            <li><a class="green-text text-lighten-4" href="mailto:bigop76.op@gmail.com">Email</a></li>
-                            <li><a class="green-text text-lighten-4" href="https://www.linkedin.com/in/oscar-plumridge/">Linkedin</a></li>
-                            <li><a class="green-text text-lighten-4" href="https://github.com/OscarP76">Github</a></li>
-                            <li><a class="green-text text-lighten-4" href="https://drive.google.com/file/d/1SCMn1ub9rBdNKjiE5YhIRRjnfVBXVI4D/view?usp=sharing">Resume</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="footer-copyright">   
-                <div class="container green-text text-darken-4">
-                    © 2021 webdevOP76
-                </div>
-            </div>
-        </footer>
+        <Box id="contact-background"
+      component="form"
+      sx={{
+        '& .MuiTextField-root': { m: 1, width: '25ch' },
+      }}
+      noValidate
+      autoComplete="off"
+    >
+      <div>
+        <TextField
+          error
+          id="outlined-error"
+          label="Error"
+          defaultValue="Hello World"
+        />
+        <TextField
+          error
+          id="outlined-error-helper-text"
+          label="Error"
+          defaultValue="Hello World"
+          helperText="Incorrect entry."
+        />
+      </div>
+      <div>
+        <TextField
+          error
+          id="filled-error"
+          label="Error"
+          defaultValue="Hello World"
+          variant="filled"
+        />
+        <TextField
+          error
+          id="filled-error-helper-text"
+          label="Error"
+          defaultValue="Hello World"
+          helperText="Incorrect entry."
+          variant="filled"
+        />
+      </div>
+      <div>
+        <TextField
+          error
+          id="standard-error"
+          label="Error"
+          defaultValue="Hello World"
+          variant="standard"
+        />
+        <TextField
+          error
+          id="standard-error-helper-text"
+          label="Error"
+          defaultValue="Hello World"
+          helperText="Incorrect entry."
+          variant="standard"
+        />
+      </div>
+      <Button variant="contained">Contained</Button>
+    </Box>
     )
 }
 
