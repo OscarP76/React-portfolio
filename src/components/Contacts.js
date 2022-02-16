@@ -60,7 +60,7 @@ function Contacts({}) {
           variant="standard"
         />
       </div>
-      <Button variant="contained">Contained</Button>
+      <Button variant="contained">Submit</Button>
     </Box>
     )
 }
