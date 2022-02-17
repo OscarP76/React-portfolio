@@ -18,7 +18,6 @@ function Footer({}) {
                             <li><a class="green-text text-lighten-4" href="mailto:bigop76.op@gmail.com">Email</a></li>
                             <li><a class="green-text text-lighten-4" href="https://www.linkedin.com/in/oscar-plumridge/">Linkedin</a></li>
                             <li><a class="green-text text-lighten-4" href="https://github.com/OscarP76">Github</a></li>
-                            <li><a class="green-text text-lighten-4" href="https://drive.google.com/file/d/1SCMn1ub9rBdNKjiE5YhIRRjnfVBXVI4D/view?usp=sharing">Resume</a></li>
                         </ul>
                     </div>
                 </div>
