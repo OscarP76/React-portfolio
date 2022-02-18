@@ -13,16 +13,6 @@ I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
 ```
 
-## Table of Contents
-
-[Languages](#languages)
-
-[Snippet](#snippet)
-
-[Links](#links)
-
-
-
 ## Languages used
 Materialize, npm, React, CSS, HTML
 
