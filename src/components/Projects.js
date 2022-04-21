@@ -73,7 +73,7 @@ function Projects({ }) {
                 </div>
             </div>
 
-            
+
             <div class="row">
                 <div class="col s8 offset-s2">
                     <div class="card">
@@ -109,10 +109,10 @@ function Projects({ }) {
                         </div>
                         <div class="card-content">
                             <p class="flow-text text-align center">This is my final project. This is an e-commerce app that my team and I
-                                created. We call the app Tailor/Thrift. TailorThrift is an online clothing shopping platform aimed at delivering customers well-fitting tailored outfits at a fair price. 
-                                Tailorthrift lives by the ABC motto (Affordable Bespoke Clothing) because everybody deserves to look their best. 
-                                Additional information can be found in the About Us and Our Mission pages on the website. 
-                                TailorThrift is a full stack MERN application where users can search different clothing options, add them to their carts, add credit card information and "purchase" those items (no actual items will be sent to the user... yet). 
+                                created. We call the app Tailor/Thrift. TailorThrift is an online clothing shopping platform aimed at delivering customers well-fitting tailored outfits at a fair price.
+                                Tailorthrift lives by the ABC motto (Affordable Bespoke Clothing) because everybody deserves to look their best.
+                                Additional information can be found in the About Us and Our Mission pages on the website.
+                                TailorThrift is a full stack MERN application where users can search different clothing options, add them to their carts, add credit card information and "purchase" those items (no actual items will be sent to the user... yet).
                                 This project contains the coding framework essential for any e-commerce website.
                             </p>
                         </div>
