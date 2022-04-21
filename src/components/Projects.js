@@ -114,7 +114,7 @@ function Projects({ }) {
                                 Additional information can be found in the About Us and Our Mission pages on the website. 
                                 TailorThrift is a full stack MERN application where users can search different clothing options, add them to their carts, add credit card information and "purchase" those items (no actual items will be sent to the user... yet). 
                                 This project contains the coding framework essential for any e-commerce website.
-                                </p>
+                            </p>
                         </div>
                         <div class="card-action">
                             <a href="https://tailorthrift.herokuapp.com/" class="green-text text-darken-3">Tailor Thrift</a>
