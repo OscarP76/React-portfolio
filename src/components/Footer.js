@@ -1,5 +1,5 @@
-function Footer({}) {
-    return(
+function Footer({ }) {
+    return (
         <footer class="page-footer blue-grey lighten-1">
             <div class="container">
                 <div class="row">
@@ -22,7 +22,7 @@ function Footer({}) {
                     </div>
                 </div>
             </div>
-            <div class="footer-copyright">   
+            <div class="footer-copyright">
                 <div class="container green-text text-darken-4">
                     © 2021 webdevOP76
                 </div>
